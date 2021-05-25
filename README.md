@@ -85,3 +85,6 @@ For existing repositories, simply add the `heroku` remote
 ```
 $ heroku git:remote -a heroku-service-shop
 ```
+
+## heroku, firebase 인증
+firebase console -> db -> Authorized domains에서 도메인을 추가해줘야함 
